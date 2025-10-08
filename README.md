@@ -9,10 +9,10 @@
 ⚡Fun fact about me is im a shy person when im speaking with someone older than me
 
 📫 How to reach me:
+
     Facebook: John Axel Deleon
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAxel04&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAxel04)](https://github.com/JohnAxel04/github-readme-stats)
     
 <!--
