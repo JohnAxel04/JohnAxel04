@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-\nIm John Axel De Leon BSIT 1A
-🌱Currently studying Html,Css and Python
-🔭 I’m currently working on ITP activity about html and css making a Resume
+##Im John Axel De Leon BSIT 1A
+##🌱Currently studying Html,Css and Python
+##🔭 I’m currently working on ITP activity about html and css making a Resume
 
 📫 How to reach me:
     Facebook: John Axel Deleon
