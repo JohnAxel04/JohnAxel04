@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Axel👋🖐
 
 💬Im John Axel De Leon BSIT 1A
 
