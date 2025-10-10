@@ -6,7 +6,7 @@
 
 🔭Currently working on ITP activity about html and css making a Resume
 
-⚡Fun fact about me is im a shy person when im speaking with someone older than me
+⚡Fun fact about me is i become a shy person when im speaking with someone older than me
 
 📫 How to reach me:
 
