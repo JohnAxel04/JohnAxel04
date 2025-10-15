@@ -15,7 +15,7 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAxel04&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAxel04)](https://github.com/JohnAxel04/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JohnAxel04)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-virid-theta.vercel.app?user=JohnAxel04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
 <!--
 **JohnAxel04/JohnAxel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
