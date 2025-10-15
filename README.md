@@ -1,9 +1,9 @@
-## Hi there I'm Axel👋🖐
+# My Profile 
 
-💬Im John Axel De Leon BSIT 1A
+### About Me
+Im aspiring developer that loves learning from the things i want to learn
 
-🌱Im Currently studying Html,Css and Python soon is js but still lack of time and mastering html and css
-
+### 🚀Project
 🔭Currently working on ITP activity about html and css making a Resume
 
 ⚡Fun fact about me is i become a shy person when im speaking with someone older than me
@@ -12,11 +12,9 @@
 
     Facebook: John Axel Deleon
     Gmail: johnaxel2421@gmail.com
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAxel04&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAxel04)](https://github.com/JohnAxel04/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats-virid-theta.vercel.app?user=JohnAxel04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAxel04&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAxel04&layout=compact)
+
 <!--
 **JohnAxel04/JohnAxel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
