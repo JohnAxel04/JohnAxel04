@@ -18,15 +18,20 @@
 
 ###
 
-<h1 align="center">HI👋</h1>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon;+BSIT+-+1A;More+Likely+Want+to+be+a+Front+Dev;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+
+</div>
+
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from Philippines<br><br>- 🔭 I’m working as Student <br>- 📚 I'm currently learning HTML,CSS and Python<br>- ⚡ In my free time I'm playing Mobile Games and Coding</p>
+<p align="center">I'm ... from Philippines<br><br>- 🔭 I’m working as Student <br>- 📚 I'm currently learning HTML,CSS and Python<br>- ⚡ In my free time I'm playing Mobile Games and Coding</p>
 
 ###
 
