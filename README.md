@@ -1,3 +1,12 @@
+<br clear="both">
+
+<div align="center">
+  <img height="250" width="1000" src="https://criticalhits.com.br/wp-content/uploads/2021/06/AAAABdbgkuUav3Y-MVhEAhouSpRXMT1vPCextw1qb910VBm3pMYu8dMjvQSZIp6uLm0ss0czu3gmPQ3PpRLr1IylgvjJIIAU.jpg"  />
+</div>
+
+###
+
+###
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   
@@ -30,7 +39,6 @@
   <p>🎓 I'm working as a Student</p>
   <p>💻 I'm currently learning <b>HTML, CSS, and Python</b></p>
   <p>⚡ In my free time, I play Mobile Games and Code</p>
-  <img height="200" border="5px solid b" src="https://tse2.mm.bing.net/th/id/OIP.pMLyGIRef94K6eiOhPB3zAHaEK?pid=Api&P=0&h=220"  />
 </div>
 
 ###
