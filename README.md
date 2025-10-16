@@ -97,9 +97,23 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=JohnAxel04)](https://github.com/JohnAxel04/JohnAxel04)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=JohnAxel04)](https://github.com/JohnAxel04/JohnAxel04)
+<p align="center">
+  <a href="https://github.com/JohnAxel04/JohnAxel04">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=PYTHON-PRACTICE-FILEs-WORKS&theme=dark" />
+  </a>
+  <a href="https://github.com/JohnAxel04/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=ITP-Resume&theme=dark" />
+  </a>
+  <a href="https://github.com/JohnAxel04/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=Facebook-Profile-Layout&theme=dark" />
+  </a>
+  <a href="https://github.com/JohnAxel04/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=HTML-and-CSS-Projects&theme=dark" />
+  </a>
+</p>
+
 <!--
 **JohnAxel04/JohnAxel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
