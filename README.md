@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="center"; margin_left:200px;>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JohnAxel04.JohnAxel04&"  />
 </div>
 
@@ -20,18 +20,18 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon;+BSIT+-+1A;More+Likely+Want+to+be+a+Front+Dev;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon+BSIT+1A;More+Likely+Want+to+be+a+Front+Developer;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+  <!-- About Me Section -->
+  <h3>🤖 About Me</h3>
+
+  <p>I'm from the Philippines 🇵🇭</p>
+  <p>🎓 I'm working as a Student</p>
+  <p>💻 I'm currently learning <b>HTML, CSS, and Python</b></p>
+  <p>⚡ In my free time, I play Mobile Games and Code</p>
 
 </div>
 
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm ... from Philippines<br><br>- 🔭 I’m working as Student <br>- 📚 I'm currently learning HTML,CSS and Python<br>- ⚡ In my free time I'm playing Mobile Games and Coding</p>
 
 ###
 
@@ -48,11 +48,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -64,7 +64,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
