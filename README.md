@@ -1,8 +1,8 @@
-<br clear="both">
-
-<div align="center">
-  <img height="250" width="1000" src="https://criticalhits.com.br/wp-content/uploads/2021/06/AAAABdbgkuUav3Y-MVhEAhouSpRXMT1vPCextw1qb910VBm3pMYu8dMjvQSZIp6uLm0ss0czu3gmPQ3PpRLr1IylgvjJIIAU.jpg"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
 
 ###
 
