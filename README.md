@@ -31,10 +31,10 @@
   <!-- About Me Section -->
   <h3>🤖 About Me</h3>
 
-  <p>I'm from the Philippines 🇵🇭</p>
-  <p>🎓 I'm working as a Student</p>
-  <p>💻 I'm currently learning <b>HTML, CSS, and Python</b></p>
-  <p>⚡ In my free time, I play Mobile Games and Code</p>
+  <p>I'm from the Quezon Province, Philippines 🇵🇭</p>
+  <p>🎓 I'm a Student of Dalubhasaan ng lungsod ng Lucena as a <b>BSIT</b></p>
+  <p>💻 I'm currently learning <b>HTML, CSS, and Python</b>, Soon is <b>JavaScript</b></p>
+  <p>⚡ In my free time, I play <b>Mobile Games,Watching Anime,Coding</b> and <b>Drawing</b></p>
 </div>
 
 ###
