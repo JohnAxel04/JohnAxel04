@@ -29,6 +29,9 @@
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon+BSIT+1A;More+Likely+Want+to+be+a+Front+Developer;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
   <!-- About Me Section -->
+
+  ---
+  
   <h3>🤖 About Me</h3>
 
   <p>I'm from the Quezon Province, Philippines 🇵🇭</p>
@@ -36,6 +39,8 @@
   <p>💻 I'm currently learning <b>HTML, CSS, and Python</b>, Soon is <b>JavaScript</b></p>
   <p>⚡ In my free time, I play <b>Mobile Games,Watching Anime,Coding</b> and <b>Drawing</b></p>
 </div>
+
+---
 
 ###
 
@@ -94,6 +99,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=HTML-and-CSS-Projects&theme=dark" />
   </a>
 </p>
+
+---
 
 ###
 
