@@ -39,6 +39,9 @@
   <p>💻 I'm currently learning <b>HTML, CSS, and Python</b>, Soon is <b>JavaScript</b></p>
   <p>⚡ In my free time, I play <b>Mobile Games,Watching Anime,Coding</b> and <b>Drawing</b></p>
 </div>
+<div align="center">
+  <a href="https://johnaxel04.github.io/MAIN_WEBPAGE/">My Main Webpage(not done yet)</a>
+</div>
 
 ---
 
@@ -113,9 +116,7 @@
 </div>
 
 ###
-<div align="center">
-  <a href="https://johnaxel04.github.io/MAIN_WEBPAGE/">My Main Webpage(not done yet)</a>
-</div>
+
 <!--
 **JohnAxel04/JohnAxel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
