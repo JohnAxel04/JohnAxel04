@@ -31,16 +31,15 @@
   <!-- About Me Section -->
 
   ---
-  
+  <samp>
   <h3>🤖 About Me</h3>
-
+  
   <p>I'm from the Quezon Province, Philippines 🇵🇭</p>
   <p>🎓 I'm a Student of Dalubhasaan ng lungsod ng Lucena as a <b>BSIT</b></p>
   <p>💻 I'm currently learning <b>HTML, CSS, and Python</b>, Soon is <b>JavaScript</b></p>
   <p>⚡ In my free time, I play <b>Mobile Games,Watching Anime,Coding</b> and <b>Drawing</b></p>
-</div>
-<div align="center">
   <a href="https://johnaxel04.github.io/MAIN_WEBPAGE/">My Main Webpage(not done yet)</a>
+  </samp>
 </div>
 
 ---
