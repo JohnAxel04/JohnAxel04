@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+  
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="center"  width="100%>
 
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon+BSIT+1A;More+Likely+Want+to+be+a+Front+Developer;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
