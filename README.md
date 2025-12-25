@@ -56,19 +56,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnAxel04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnAxel04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
- 
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnAxel04/JohnAxel04/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnAxel04/JohnAxel04/output/pacman-contribution-graph.svg">
