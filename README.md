@@ -38,7 +38,7 @@
   <p>🎓 I'm a Student of Dalubhasaan ng lungsod ng Lucena as a <b>BSIT</b></p>
   <p>💻 I'm currently learning <b>HTML, CSS, and Python</b>, Soon is <b>JavaScript</b></p>
   <p>⚡ In my free time, I play <b>Mobile Games,Watching Anime,Coding</b> and <b>Drawing</b></p>
-  <a href="https://johnaxel04.github.io/MAIN_WEBPAGE/">My Main Webpage(not done yet)</a>
+  <a href="https://johnaxel04.github.io/WEB_PROFILE_ACTIVITY/">My Main Webpage(not done yet)</a>
   </samp>
 </div>
 
