@@ -44,13 +44,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnaxel04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnaxel04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
-
-###
-
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
@@ -68,24 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnAxel04/JohnAxel04/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnAxel04/JohnAxel04/output/pacman-contribution-graph.svg">
 </picture>
-
-## Repositories
-###
-
-<p align="center">
-  <a href="https://github.com/JohnAxel04/JohnAxel04">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=PYTHON-PRACTICE-FILEs-WORKS&theme=dark" />
-  </a>
-  <a href="https://github.com/JohnAxel04/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=ITP-Resume&theme=dark" />
-  </a>
-  <a href="https://github.com/JohnAxel04/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=Facebook-Profile-Layout&theme=dark" />
-  </a>
-  <a href="https://github.com/JohnAxel04/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnAxel04&repo=HTML-and-CSS-Projects&theme=dark" />
-  </a>
-</p>
 
 ---
 
