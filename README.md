@@ -26,7 +26,7 @@
 <div align="center"  width="100%>
 
   <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon+BSIT+1A;More+Likely+Want+to+be+a+Front+Developer;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+John+Axel+De+Leon+BSIT+Student;More+Likely+Want+to+be+a+Front+Developer;THANK+YOU+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
   <!-- About Me Section -->
 
   ---
